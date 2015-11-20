@@ -1,0 +1,21 @@
+{
+  "myIntimsFriends": [{
+    "id": 1,
+    "name": "romain",
+    "adresse": "rue de la haut",
+    "cp": "7 ciel",
+    "friends": ["gilles", "vincent", "stéphane"]
+  }, {
+    "id": 2,
+    "name": "romain2",
+    "adresse": "rue de la haut2",
+    "cp": "7 ciel",
+    "friends": ["gilles", "vincent", "stéphane"]
+  }, {
+    "id": 3,
+    "name": "romain3",
+    "adresse": "rue de la haut3",
+    "cp": "7 ciel",
+    "friends": ["gilles", "vincent", "stéphane"]
+  }]
+}
