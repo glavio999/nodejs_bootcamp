@@ -1,0 +1,13 @@
+body {
+  background-color: hotpink;
+}
+
+.wrapper {
+  margin: 0 auto;
+  background-color: cyan;
+  width: 80%;
+}
+
+h1 {
+  color: white;
+}

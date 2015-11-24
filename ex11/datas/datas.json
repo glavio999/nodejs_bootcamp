@@ -1,0 +1,9 @@
+db.restaurants.insert([
+{"id": 1, "name": "Chez Jean-Paul-Nam", "adresse": "Rue de Pekin", "ville": "WORQUIGNIES", "cp": "7402",},
+{"id": 2, "name": "Brasserie 'Wendy's Rock's'","adresse": "rue du Hard Rock","ville": "MONS","cp": "8500",},
+{"id": 3,"name": "Chez Momo la Gézouze", "adresse": "Chaussée du Bled", "ville": "BX", "cp": "1000",},
+{"id": 4, "name": "Gilou le Nem","adresse": "rue du Code Alpha", "ville": "HORNU","cp": "7303",},
+{"id": 5, "name": "Isabelle a les yeux bleus","adresse": "rue du Code Alpha", "ville": "SAINT-SYMPHORIEN","cp": "7030",},
+{"id": 6, "name": "Au joyeux Gay-luron", "adresse": "rue de la Barre ", "ville": "TOURNAI","cp": "7500",}
+]);
+db.restaurants.find()
